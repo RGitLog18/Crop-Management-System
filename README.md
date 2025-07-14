@@ -53,7 +53,7 @@ To run this project locally:
  ---
  
  ## 📂 Folder Structure
-
+![fileStructure](https://github.com/RGitLog18/Crop-Management-System/blob/main/file%20structure.PNG)
 
 ---
 
